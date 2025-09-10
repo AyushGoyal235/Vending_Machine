@@ -1,4 +1,4 @@
-Soft Drink Vending Machine (C Program)
+🍹Soft Drink Vending Machine (C Program)
 
 📌 Overview
 This project is a simple **C program** that simulates a **Soft Drink Vending Machine**.  
