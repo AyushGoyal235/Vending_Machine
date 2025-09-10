@@ -1,6 +1,9 @@
-🍹Soft Drink Vending Machine (C Program)
+**🍹Soft Drink Vending Machine (C Program)**
 
-📌 Overview
+---
+
+**📌 Overview**
+
 This project is a simple **C program** that simulates a **Soft Drink Vending Machine**.  
 It allows users to:
 - Select a drink (Coke, Sprite, or Fanta).
@@ -10,7 +13,7 @@ It allows users to:
 
 ---
 
-🥤 Available Drinks
+**🥤 Available Drinks**
 | Option | Drink   | Price |
 |--------|---------|-------|
 | 1      | Coke    | 25rs  |
@@ -19,7 +22,7 @@ It allows users to:
 
 ---
 
-⚙️ Features
+**⚙️ Features**
 - User-friendly menu.
 - Validates coin input (only accepts 1, 2, 5, and 10).
 - Calculates and returns change if needed.
@@ -27,7 +30,7 @@ It allows users to:
 
 ---
 
-🛠️ How to Run
+**🛠️ How to Run**
 Make sure you have C programming installed. Then run:
 
 
